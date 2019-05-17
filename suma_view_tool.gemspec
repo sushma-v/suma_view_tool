@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "suma_view_tool"
   spec.version       = SumaViewTool::VERSION
   spec.authors       = ["Sushma Venugopal"]
-  spec.email         = [sushma@pepperminty.co.uk]
+  spec.email         = ["sushma@pepperminty.co.uk"]
 
   spec.summary       = %q{Various View specific methods for the applications that I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
