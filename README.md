@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SumaViewTool::Renderer.copyright 'firstname lastname', "All rights reserved"
+```
 
 ## Development
 
